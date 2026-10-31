@@ -1,11 +1,11 @@
 # EDMachine 🎹⚡️
 
-**A goovebox in a browser built w/Antigravity IDE by Google powered by Gemini.**
+**A goovebox in a browser built w/Antigravity IDE Powered by Google Gemini.**
  
 ### 🕹️ How to Play 
 - **Short Press**: Toggle pads to change grooves.
-- **Long Press**: Stop that loop. 
-- **Chaos Mode**: Drag a finger/mouse across the visualizer to sweep synth HPF/LPF (x/y).
+- **Long Press**: Stop that loop.
+- **Filter Control**: Drag a finger/mouse across the visualizer to sweep synth HPF/LPF (x/y).
 
 ### 🛠️ The Gear
 - **8 Reactive Pads**: 4 synths (Sub, Arp, Pad, Lead) + 4 drums (Kick, Clap, Hats, Toms).
@@ -16,6 +16,7 @@
 1. Open https://octabit-work.github.io/EDMachine/ before being out of pocket.
 2. Tap the screen to initialize the engine.
 3. Adjust your volume or don't.
+4. Use 1-8 fingers to trigger / silence loops at once.
 
 ---
 *Built for caffeinated EBM*
