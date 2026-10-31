@@ -13,7 +13,7 @@
 - **Powered by Tone.js**: High-fidelity audio in a browser.
 
 ### 🚀 Getting Started
-1. Open https://bencirrus.github.io/EDMachine/ before being out of pocket.
+1. Open https://octabit-work.github.io/EDMachine/ before being out of pocket.
 2. Tap the screen to initialize the engine.
 3. Adjust your volume or don't.
 
