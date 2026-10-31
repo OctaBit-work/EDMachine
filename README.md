@@ -18,4 +18,4 @@
 3. Adjust your volume or don't.
 
 ---
-*Built for caffeinated EMB*
+*Built for caffeinated EBM*
